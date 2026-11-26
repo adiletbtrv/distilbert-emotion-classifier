@@ -1,0 +1,29 @@
+# Model artifacts and checkpoints
+emotion_model/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+results/
+logs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
